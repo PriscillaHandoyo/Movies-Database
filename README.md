@@ -3,6 +3,8 @@
 ## Project Overview
 This project is a Movie Database Website that allows users to browse and explore movies. It includes features such as a homepage with a movie banner, movie listings, and interactive elements.
 
+Based from [Build a Movie APP With React | React Tutorial for Beginners](https://youtu.be/ufodJVcpmps?si=YojUzpnuOkLh1_Af)
+
 ## Features
 - Interactive homepage with a movie banner
 - Movie listings with details
